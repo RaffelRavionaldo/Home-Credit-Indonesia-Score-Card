@@ -65,9 +65,11 @@ Because we have imbalanced data, so we need to balanced it with oversampling or 
 5. Train Model
 
 A. Logistic Regression
+
 ![image](https://user-images.githubusercontent.com/94748637/210195917-ad0165b2-374b-4819-be83-4e9be3052433.png)
 
 B. XGBoost
+
 ![image](https://user-images.githubusercontent.com/94748637/210195943-c7740677-7d81-4a3b-be84-efbf6e6606dc.png)
 
 C. Random Forest
